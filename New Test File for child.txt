@@ -1,2 +1,1 @@
-This is the first line for Pull request test
-this is to test the PULL request 2
+removing the entire code -and creating this line
